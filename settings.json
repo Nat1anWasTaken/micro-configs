@@ -1,1 +1,4 @@
-{}
+{
+    "lsp.autocompleteDetails": true,
+    "lsp.server": "typescript=typescript-language-server --stdio,javascript=typescript-language-server --stdio"
+}
